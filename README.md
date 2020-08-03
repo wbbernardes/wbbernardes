@@ -1,16 +1,16 @@
-### Hi there 👋
+# Wesley Brito :office_worker:
 
-<!--
-**wbbernardes/wbbernardes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wbbernardes)](https://github.com/wbbernardes)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wbbernardes/)](https://www.linkedin.com/in/wbbernardes/)
 
-Here are some ideas to get you started:
+## Olá 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é Wesley Brito, sou Desenvolvedor iOS apaixonado pelo Swift.
+
+- :man_technologist: Trabalhando como Desenvolvedor iOS na **AIS DIGITAL**
+- :blue_heart: Techs: Swift, iOS, React Native, Android e mais!
+- :books: Estudando sobre CI/CD com Bitrise :heart:
+
+> :octocat:
+
+---
